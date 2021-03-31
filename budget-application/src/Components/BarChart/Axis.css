@@ -1,0 +1,12 @@
+.Axis line {
+  stroke: #E0E0E0;
+}
+
+.Axis text {
+  font-size: 11px;
+}
+
+.Axis-Bottom text {
+  transform: rotate(-20deg);
+  text-anchor: end;
+}
